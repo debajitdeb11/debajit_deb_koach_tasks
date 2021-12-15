@@ -1,0 +1,13 @@
+/* .bg-color {
+   background-color: linear-gradient(to right, #c471ed , #F64F59);
+} */
+
+#customBtnColor {
+   background-color: #12c2e9;
+   border: 0;
+}
+
+body {
+   background-image: linear-gradient( to right, #c471ed , #F64F59);
+   /* background-color: #c471ed; */
+}
